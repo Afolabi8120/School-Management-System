@@ -1,0 +1,16 @@
+Hello, This Software was developed using C# and MySQL for the database.
+
+This school management system keep student records, staff records, student fee payments, keep expenses records, backing and restoring of database, etc.
+
+How to import the database
+
+- Go to your local machine e.g Xamp, Wamp etc.
+- Click on Import 
+- Open the Database folder and select the sms_db.sql file
+- Then click on go, it will import data's into your local machine
+
+Username   Password   	    Level
+
+Afolabi     12345      Administrator
+Albert      12345           User
+Feranmi     12345          Burser

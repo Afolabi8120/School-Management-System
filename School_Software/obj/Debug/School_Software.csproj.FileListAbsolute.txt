@@ -1,0 +1,45 @@
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\bin\Debug\School_Software.exe.config
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\bin\Debug\School_Software.exe
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\bin\Debug\School_Software.pdb
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\bin\Debug\MySql.Data.DLL
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmAllDuePayment.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmExamScore.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmExpenseReport.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmExpenses.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmFeePayment.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmFeePaymentReport.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmFeeReceipt.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmFeeType.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmMainmenu.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmPayDue.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmPaymentHistory.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmPrintResult.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmReprintReceipt.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmResultManagement.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmSchoolInfo.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmSection.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmSettings.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmSplashScreen.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmStaff.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmStudent.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmStudentSlip.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmSubjects.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmUser.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.Properties.Resources.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.csproj.GenerateResource.Cache
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\RdlCompile.cache
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\RdlCompile.compiled
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.exe
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.pdb
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.csprojResolveAssemblyReference.cache
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmCheck.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmExamScore2.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmPrintResult2.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmLogin.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\bin\Debug\mysqlbackup.dll
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmBackupRestore.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmBurser.resources
+C:\Users\SNAZZY\documents\visual studio 2012\Projects\School_Software\School_Software\obj\Debug\School_Software.frmUserMenu.resources
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\School Management System\School_Software\bin\Debug\School_Software.exe.config
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\School Management System\School_Software\obj\Debug\School_Software.exe
+C:\Users\SNAZZY\Documents\Visual Studio 2012\Projects\School Management System\School_Software\obj\Debug\School_Software.pdb
