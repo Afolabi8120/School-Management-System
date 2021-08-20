@@ -1,5 +1,6 @@
 # School-Management-System
-It is a school management project created in C# and MySQL using Visual Studio 2012. 
+It is a school management project created in C# and MySQL using Visual Studio 2012.
+It is a standalone Desktop Base Application, it keeps student record, staff records, student fee payment and prints out receipt, keep expenses record, print student result, backing up and restoring of database and many more.
 
 # Some Screenshots
 
