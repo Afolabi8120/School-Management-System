@@ -1,6 +1,8 @@
-Hello, This Software was developed using C# and MySQL for the database.
+This Software was developed using C# and MySQL for the database.
 
-This school management system keep student records, staff records, student fee payments, keep expenses records, backing and restoring of database, etc.
+This school management system keep student records, staff records, student fee payments,
+keep expenses records, backing and restoring of database, keep student report score,
+print results etc.
 
 How to import the database
 
@@ -13,4 +15,4 @@ Username   Password   	    Level
 
 Afolabi     12345      Administrator
 Albert      12345           User
-Feranmi     12345          Burser
+Feranmi     12345          Bursar

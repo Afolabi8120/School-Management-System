@@ -424,7 +424,7 @@ namespace School_Software
                         cm.Parameters.AddWithValue("@due", lblDue.Text);
                         cm.Parameters.AddWithValue("@date", DateTime.Now.ToShortDateString());
                         cm.Parameters.AddWithValue("@time", DateTime.Now.ToShortTimeString());
-                        cm.Parameters.AddWithValue("@receivedby", "AFOLABI TEMIDAYO TIMOTHY");
+                        cm.Parameters.AddWithValue("@receivedby", frmLogin.fullname);
                         cm.ExecuteNonQuery();
                         cn.Close();
                         MessageBox.Show("Payment has been saved successfully!", "", MessageBoxButtons.OK, MessageBoxIcon.Information);
